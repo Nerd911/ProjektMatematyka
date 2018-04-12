@@ -1,0 +1,116 @@
+Dane/ormiański/p_3.bmp
+Dane/ormiański/i_3.bmp
+Dane/ormiański/o_2.bmp
+Dane/ormiański/p_1.bmp
+Dane/ormiański/z_2.bmp
+Dane/ormiański/i_2.bmp
+Dane/ormiański/o_3.bmp
+Dane/ormiański/z_3.bmp
+Dane/ormiański/z_1.bmp
+Dane/ormiański/i_1.bmp
+Dane/ormiański/o_1.bmp
+Dane/ormiański/p_2.bmp
+Dane/lacinski/i_5.bmp
+Dane/lacinski/p_3.bmp
+Dane/lacinski/p_5.bmp
+Dane/lacinski/i_3.bmp
+Dane/lacinski/o_2.bmp
+Dane/lacinski/p_1.bmp
+Dane/lacinski/z_5.bmp
+Dane/lacinski/i_4.bmp
+Dane/lacinski/o_5.bmp
+Dane/lacinski/o_4.bmp
+Dane/lacinski/p_4.bmp
+Dane/lacinski/z_4.bmp
+Dane/lacinski/z_2.bmp
+Dane/lacinski/i_2.bmp
+Dane/lacinski/o_3.bmp
+Dane/lacinski/z_3.bmp
+Dane/lacinski/z_1.bmp
+Dane/lacinski/i_1.bmp
+Dane/lacinski/o_1.bmp
+Dane/lacinski/p_2.bmp
+Dane/cyrylica/p_1.bmp
+Dane/cyrylica/z_1.bmp
+Dane/cyrylica/i_1.bmp
+Dane/cyrylica/o_1.bmp
+Dane/gocki/i_3.bmp
+Dane/gocki/p_1.bmp
+Dane/gocki/z_2.bmp
+Dane/gocki/i_2.bmp
+Dane/gocki/z_3.bmp
+Dane/gocki/z_1.bmp
+Dane/gocki/i_1.bmp
+Dane/gocki/o_1.bmp
+Dane/Koreański/kroje_koreanski.jpg
+Dane/gruziński/p_3.bmp
+Dane/gruziński/i_3.bmp
+Dane/gruziński/o_2.bmp
+Dane/gruziński/p_1.bmp
+Dane/gruziński/i_4.bmp
+Dane/gruziński/o_4.bmp
+Dane/gruziński/p_4.bmp
+Dane/gruziński/z_4.bmp
+Dane/gruziński/z_2.bmp
+Dane/gruziński/i_2.bmp
+Dane/gruziński/o_3.bmp
+Dane/gruziński/z_3.bmp
+Dane/gruziński/z_1.bmp
+Dane/gruziński/i_1.bmp
+Dane/gruziński/o_1.bmp
+Dane/gruziński/p_2.bmp
+Dane/mongolski/odr.gocki.z.png
+Dane/mongolski/mongolski.i.2.png
+Dane/mongolski/odr.mongolski.o.png
+Dane/mongolski/mongolski.o.3.png
+Dane/mongolski/odr.gocki.p.png
+Dane/mongolski/odr.mongolski.p.png
+Dane/mongolski/odr.etruski.i.png
+Dane/mongolski/odr.mongolski.i.png
+Dane/mongolski/mongolski.p.1.png
+Dane/mongolski/mongolski.p.3.png
+Dane/mongolski/odr.etruski.p.png
+Dane/mongolski/odr.gocki.o.png
+Dane/mongolski/mongolski.i.1.png
+Dane/mongolski/mongolski.i.3.png
+Dane/mongolski/mongolski.p.2.png
+Dane/mongolski/odr.etruski.z.png
+Dane/mongolski/odr.gocki.i.png
+Dane/mongolski/mongolski.o.1.png
+Dane/mongolski/mongolski.o.2.png
+Dane/grecki/p_3.bmp
+Dane/grecki/i_3.bmp
+Dane/grecki/o_2.bmp
+Dane/grecki/p_1.bmp
+Dane/grecki/i_4.bmp
+Dane/grecki/o_4.bmp
+Dane/grecki/p_4.bmp
+Dane/grecki/z_4.bmp
+Dane/grecki/z_2.bmp
+Dane/grecki/i_2.bmp
+Dane/grecki/o_3.bmp
+Dane/grecki/z_3.bmp
+Dane/grecki/z_1.bmp
+Dane/grecki/i_1.bmp
+Dane/grecki/o_1.bmp
+Dane/grecki/p_2.bmp
+Dane/pisane ręcznie/koreański_z.bmp
+Dane/pisane ręcznie/koreański_z.jpg
+Dane/pisane ręcznie/koreański_i.jpg
+Dane/pisane ręcznie/fenicki_z.jpg
+Dane/pisane ręcznie/koreański_p.bmp
+Dane/pisane ręcznie/ormiański_i.bmp
+Dane/pisane ręcznie/fenicki_z.bmp
+Dane/pisane ręcznie/koreański_o.jpg
+Dane/pisane ręcznie/koreański_p.jpg
+Dane/pisane ręcznie/ormiański_z.jpg
+Dane/pisane ręcznie/ormiański_p.bmp
+Dane/pisane ręcznie/ormiański_i.jpg
+Dane/pisane ręcznie/fenicki_p.jpg
+Dane/pisane ręcznie/koreański_o.bmp
+Dane/pisane ręcznie/ormiański_o.jpg
+Dane/pisane ręcznie/ormiański_z.bmp
+Dane/pisane ręcznie/ormiański_o.bmp
+Dane/pisane ręcznie/fenicki_p.bmp
+Dane/pisane ręcznie/koreański_i.bmp
+Dane/pisane ręcznie/ormiański_p.jpg
