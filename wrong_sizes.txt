@@ -1,1 +1,10 @@
-Dane/gocki/o_1.jpg
+Dane/lacinski/i_17.jpg
+Dane/cyrylica/i_2.jpg
+Dane/cyrylica/p_17.jpg
+Dane/etruski/z_7.jpg
+Dane/Koreański/p_6.jpg
+Dane/Koreański/i_24.jpg
+Dane/gruziński/p_6.jpg
+Dane/gruziński/i_24.jpg
+Dane/mongolski/i_10.jpg
+Dane/mongolski/p_11.jpg
